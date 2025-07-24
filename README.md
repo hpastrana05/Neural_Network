@@ -1,17 +1,15 @@
 # IA_Market_Study
-___
+
 # 📈 Market Predictor AI
 
 Este proyecto entrena una IA con datos de mercado (velas OHLC y RSI) para predecir movimientos futuros de precios y facilitar las predicciones mediante un bot de Telegram.
 
-___
 ## 🧠 Objetivo
 
 1. Entrenar una IA con datos históricos de mercado.
 2. Usar el modelo entrenado para predecir si un símbolo subirá o bajará, según el tamaño de vela.
 3. Facilitar la consulta de predicciones mediante un bot de Telegram.
 
-___
 ## 🧩 Estructura
 
 - `data/`: Contiene los datos históricos de entrenamiento (velas OHLC y RSI).
